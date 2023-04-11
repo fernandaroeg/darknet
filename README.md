@@ -1,4 +1,4 @@
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
+# # MODIFIED VERSION OF DARKNET to be able to run it in Ubuntu20.40 and ROS Noetic using GPU acceleration with CUDA11.7 and cuDNN8.5.0 on a NVIDIA GeForce GTX 1650 according to nvidia issue: https://forums.developer.nvidia.com/t/object-detection-on-a-webcam-with-yolo/156431/7
 
 # Darknet #
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
